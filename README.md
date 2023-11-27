@@ -8,7 +8,7 @@ My name is Galina and I’m a java-developer.
 
 
 
- [![Telegram Badge](https://img.shields.io/badge/-IvGaVad-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IvGaVad) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Galya_iv@mail.ru)
+ [![Telegram Badge](https://img.shields.io/badge/-IvGaVad-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/IvGaVad) [![Gmail Badge](https://img.shields.io/badge/-Email-blue?style=flat&logo=Email&logoColor=white)](mailto:Galya_iv@mail.ru)
 
 
 </div>
